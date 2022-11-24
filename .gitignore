@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 8086
+*.COM
+
+# Ctags
+tags
