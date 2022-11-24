@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/joris/doc/uni/procprog/lab/09/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+Point	1.c	/^typedef struct Point{$/;"	s	file:
+Point	1.c	/^} Point;$/;"	t	typeref:struct:Point	file:
+Stack	2.c	/^typedef struct Stack{$/;"	s	file:
+Stack	2.c	/^} Stack;$/;"	t	typeref:struct:Stack	file:
+createPoint	1.c	/^Point createPoint(double x, double y){$/;"	f	typeref:typename:Point
+destroyStack	2.c	/^void destroyStack(Stack *stack){$/;"	f	typeref:typename:void
+getDistance	1.c	/^double getDistance(Point a, Point b){$/;"	f	typeref:typename:double
+getStackSize	2.c	/^int getStackSize(Stack *stack){$/;"	f	typeref:typename:int
+initStack	2.c	/^void initStack(Stack *stack){$/;"	f	typeref:typename:void
+main	1.c	/^int main(){$/;"	f	typeref:typename:int
+main	2.c	/^int main(){$/;"	f	typeref:typename:int
+p	2.c	/^    int *p;$/;"	m	struct:Stack	typeref:typename:int *	file:
+pop	2.c	/^int pop(Stack *stack){$/;"	f	typeref:typename:int
+printPoint	1.c	/^void printPoint(Point p){$/;"	f	typeref:typename:void
+printStack	2.c	/^void printStack(Stack *stack){$/;"	f	typeref:typename:void
+push	2.c	/^void push(Stack *stack, int value){$/;"	f	typeref:typename:void
+size	2.c	/^    int size;$/;"	m	struct:Stack	typeref:typename:int	file:
+top	2.c	/^int top(Stack *stack){$/;"	f	typeref:typename:int
+x	1.c	/^    double x, y;$/;"	m	struct:Point	typeref:typename:double	file:
+y	1.c	/^    double x, y;$/;"	m	struct:Point	typeref:typename:double	file:

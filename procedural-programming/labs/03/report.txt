@@ -1,0 +1,115 @@
+QUERY1
+[14]
+Sole de Vito 1 0.000000 0 English French
+Jim Hat 3 0.000000 0 English
+Melissa Gibbs 2 0.000000 0 English Spanish Lithuanian
+...
+QUERY2
+[885]
+Jenny Davison 2 7.666667 3 Operating systems 9 Algorithms 7 Discrete mathematics 7 English
+Luke Wood 2 5.000000 6 Algorithms 3 Algorithms 8 Set theory 3 Computer networks 3 Discrete mathematics 7 Set theory 6 English
+Betty Davison 2 5.750000 4 Computer programming 8 Algebra 2 Physics 5 Algebra 8 English Lithuanian
+...
+
+QUERY3
+[789]
+Jenny Davison 2 7.666667 3 Operating systems 9 Algorithms 7 Discrete mathematics 7 English
+Luke Wood 2 5.000000 6 Algorithms 3 Algorithms 8 Set theory 3 Computer networks 3 Discrete mathematics 7 Set theory 6 English
+Sole de Vito 1 0.000000 0 English French
+...
+
+QUERY4
+[498]
+Jenny Davison 2 7.666667 3 Operating systems 9 Algorithms 7 Discrete mathematics 7 English
+Luke Wood 2 5.000000 6 Algorithms 3 Algorithms 8 Set theory 3 Computer networks 3 Discrete mathematics 7 Set theory 6 English
+Betty Davison 2 5.750000 4 Computer programming 8 Algebra 2 Physics 5 Algebra 8 English Lithuanian
+...
+
+QUERY5
+[266]
+Victor Doe 2 1.000000 2 Algorithms 1 Computer networks 1 English
+Charlie Gibbs 1 8.000000 1 Computer programming 8 English Lithuanian
+Jerry Wood 4 9.000000 4 Discrete mathematics 10 Philosophy 10 Operating systems 10 Philosophy 6 English Russian
+...
+
+QUERY6
+[580]
+Jenny Davison 2 7.666667 3 Operating systems 9 Algorithms 7 Discrete mathematics 7 English
+Sole de Vito 1 0.000000 0 English French
+Matt Brightman 4 8.333333 3 Calculus 5 Set theory 10 Calculus 10 English
+...
+
+QUERY7
+[188]
+Jenny Davison 2 7.666667 3 Operating systems 9 Algorithms 7 Discrete mathematics 7 English
+Charlie Gibbs 1 8.000000 1 Computer programming 8 English Lithuanian
+Debora Smith 2 8.000000 4 Operating systems 8 Computer networks 9 Algebra 9 Set theory 6 English French Lithuanian
+...
+
+QUERY8
+[83]
+Melissa Davison 2 6.333333 3 Algorithms 7 Calculus 4 Algebra 8 English Lithuanian
+Jane Quarry 4 7.600000 5 Computer programming 9 Algebra 5 Discrete mathematics 5 Discrete mathematics 9 Calculus 10 English Spanish French
+George Note 3 6.800000 5 Algorithms 5 Algebra 9 Operating systems 9 Calculus 6 Physics 5 English Spanish
+...
+
+QUERY9
+[253]
+Jerry Wood 4 9.000000 4 Discrete mathematics 10 Philosophy 10 Operating systems 10 Philosophy 6 English Russian
+Wilhelm Damon 2 7.500000 4 Algebra 6 Philosophy 5 Computer networks 10 Philosophy 9 English French Lithuanian
+Alex Davison 2 6.750000 4 Computer networks 8 Philosophy 5 Set theory 5 Discrete mathematics 9 English Lithuanian
+...
+
+QUERY10
+[265]
+Betty Davison 2 5.750000 4 Computer programming 8 Algebra 2 Physics 5 Algebra 8 English Lithuanian
+Adam Madsen 2 7.400000 5 Set theory 10 Operating systems 8 Computer networks 10 Operating systems 5 Set theory 4 English Lithuanian
+Melissa Davison 2 6.333333 3 Algorithms 7 Calculus 4 Algebra 8 English Lithuanian
+...
+
+QUERY11
+[556]
+Matt Brightman 4 8.333333 3 Calculus 5 Set theory 10 Calculus 10 English
+Adam Madsen 2 7.400000 5 Set theory 10 Operating systems 8 Computer networks 10 Operating systems 5 Set theory 4 English Lithuanian
+Matt Gibbs 2 8.500000 4 Computer programming 9 Computer networks 10 Computer programming 7 Operating systems 8 English
+...
+
+QUERY12
+[4]
+Julie Wozniak 4 7.333333 3 Operating systems 9 Computer networks 7 Discrete mathematics 6 English Russian Spanish French Lithuanian
+Arnold Druddle 4 6.600000 5 Algebra 7 Philosophy 2 Algorithms 9 Calculus 6 Computer programming 9 English Russian Spanish French Lithuanian
+Alice Wood 2 7.250000 4 Calculus 8 Calculus 5 Algebra 9 Philosophy 7 English Russian Spanish French Lithuanian
+...
+
+QUERY13
+[37]
+George Madsen 3 5.666667 3 Calculus 5 Physics 9 Physics 6 English Russian French
+Victor Thornton 3 5.333333 6 Algebra 6 Algorithms 7 Computer programming 7 Algorithms 7 Set theory 6 Physics 5 English
+Jerry Wood 4 2.333333 3 Philosophy 3 Computer programming 1 Computer networks 6 English
+...
+QUERY14
+[0]
+
+QUERY15
+[85]
+Jerry Wood 4 9.000000 4 Discrete mathematics 10 Philosophy 10 Operating systems 10 Philosophy 6 English Russian
+Jamie Smith 2 10.000000 1 Calculus 10 English French Lithuanian
+Charlie Gibbs 1 9.500000 2 Algorithms 9 Physics 10 English French
+...
+
+QUERY16
+[374]
+Luke Wood 2 5.000000 6 Algorithms 3 Algorithms 8 Set theory 3 Computer networks 3 Discrete mathematics 7 Set theory 6 English
+Betty Davison 2 5.750000 4 Computer programming 8 Algebra 2 Physics 5 Algebra 8 English
+Matt Brightman 4 8.333333 3 Calculus 5 Set theory 10 Calculus 10 English
+...
+
+QUERY17
+[330]
+Luke Wood 2 5.000000 6 Algorithms 3 Algorithms 8 Set theory 3 Computer networks 3 Discrete mathematics 7 Set theory 6 English
+Betty Davison 2 5.750000 4 Computer programming 8 Algebra 2 Physics 5 Algebra 8 English Lithuanian
+Matt Brightman 4 8.333333 3 Calculus 5 Set theory 10 Calculus 10 English
+...
+
+QUERY18
+[0]
