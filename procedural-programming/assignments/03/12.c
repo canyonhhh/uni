@@ -1,8 +1,14 @@
+/*
+ *Made by Joris Lisas
+ *This program takes in an input file and
+ *Outputs the found palindromes either in a provided output file or stdout
+ *Usage: ./12 in.txt out.txt
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-#define BUFFER_SIZE 2024
+#define BUFFER_SIZE 100
 #define MAX_PATH_LENGTH 260
 
 #define MALLOC_ERR "Could not allocate memory. Exiting.\n"
@@ -98,7 +104,11 @@ int main(int argc, char **argv){
 
     while (!feof(inFile)){
 
-	fread(readingBuffer + offset, sizeof(char), BUFFER_SIZE - offset, inFile);
+	int elementsRead = fread(readingBuffer + offset, sizeof(char), BUFFER_SIZE - offset, inFile);
+
+	if (feof(inFile) && elementsRead != BUFFER_SIZE){
+	    *(readingBuffer + offset + elementsRead) = '\0';
+	}
 
 	if (!feof(inFile) && readingBuffer[BUFFER_SIZE - 1] != ' '){
 	    partialReadCleanup(readingBuffer, extraBuffer, &offset);
@@ -121,8 +131,6 @@ int main(int argc, char **argv){
 	}
     }
     
-    /*cleanup();*/
-
     free(readingBuffer);
     free(extraBuffer);
     free(word);
